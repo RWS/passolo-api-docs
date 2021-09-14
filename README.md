@@ -1,1 +1,0 @@
-# passolo-api-docs
