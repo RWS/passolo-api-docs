@@ -11,8 +11,8 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "Access the Passolo APIs",
-    "keywords": "Access the Passolo APIs Learn more about Passolo 2021 APIs Learn more about the APIs and what you can achieve with them. Articles Read articles on how to get more out of Passolo. RWS"
+    "title": "Access the Passolo SDK and COM API",
+    "keywords": "Access the Passolo SDK and COM API Learn more about Passolo SDK Learn more about the SDK for developing Passolo Add-Ins and what you can achieve with it. Learn more about Passolo COM API Learn more about the COM API for automating Passolo and what you can achieve with it. Articles Read articles on how to get more out of Passolo. RWS"
   },
   "README.html": {
     "href": "README.html",

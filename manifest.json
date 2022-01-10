@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "Uzez4bmPeiAfxMKjDGmPNrXikP8vKWtBLnbRWqKD+Y4="
+          "hash": "NZaIeHCU/ihuMzKCyCdnoLth0hMziOCzRhXsJZH8K4k="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "apiconcepts/overview.html",
-          "hash": "E7a6wCl2VeUx1FCXWDpqWD0YHi/m8WB2GwD5O/ZGytM="
+          "hash": "0Nlt4RBe5TOG5/TgQUELM0v15kxNDPuxQs/grNRrDYI="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "Q0cQdzFnYubhnmbyc95Z91LZrgUWbebHDgc5CKsb+mo="
+          "hash": "pGtSgiIMZD1qEoPdWjZwtsGRwjVMXJH1bKJphcQECLo="
         }
       },
       "is_incremental": false,
@@ -73,12 +73,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "9ZzEy3N1D/BzqX8J7tOEoHcJM6MOmc4mjiq3JKvWz4M="
+          "hash": "CX59diDcqlqEmsEJVhDivZ4nl6+xIiD60iaBZYWpmzc="
         }
       },
       "is_incremental": false,
