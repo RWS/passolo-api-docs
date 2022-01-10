@@ -17,14 +17,18 @@
       { 
 	      "files": [
           "apiconcepts/**.md",
-          "apiconcepts/toc.yml"
+          "apiconcepts/toc.yml",
+          "sdkconcepts/**.md",
+          "sdkconcepts/toc.yml"
         ]
       }
     ],
     "resource": [
       {
         "files": [
-          "**/images/**"
+          "**/images/**",
+          "**/**.zip"
+
         ]
       }
     ],
