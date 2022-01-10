@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "apiconcepts/toc.html",
-          "hash": "kGk58J0h7lYng41J2Z7XBPLw66TFVqsYZH7GG68AT/s="
+          "hash": "qBl+u0+U8ER8gny8nYZkmVPqMnP5DDSMMUfw9XfWcyM="
         }
       },
       "is_incremental": false,
@@ -73,15 +73,46 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
+      "type": "Resource",
+      "source_relative_path": "docfx.zip",
+      "output": {
+        "resource": {
+          "relative_path": "docfx.zip"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "CX59diDcqlqEmsEJVhDivZ4nl6+xIiD60iaBZYWpmzc="
+          "hash": "C4eTFgSo7BoPM3R28IfcVQ6rl5DZolVAB+w19m9lTE0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "sdkconcepts/Passolo_2018_AddIn_SDK.zip",
+      "output": {
+        "resource": {
+          "relative_path": "sdkconcepts/Passolo_2018_AddIn_SDK.zip"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "sdkconcepts/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "sdkconcepts/overview.html",
+          "hash": "g8X5usjDk3oPWNvsWTLN8RpOs/5usVt2XAEVCDzDqG8="
         }
       },
       "is_incremental": false,
@@ -93,7 +124,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "xnsF+eK9gJBKFo/olASu4F3Dg7fYqYn9pibg0ZQpXW0="
+          "hash": "fiMjJBhX6FQnKU+8YV/4DZnJATj/5QIW85yflDo4oJQ="
         }
       },
       "is_incremental": false,
@@ -114,7 +145,14 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 4,
+          "total_file_count": 5,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
