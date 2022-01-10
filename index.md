@@ -8,5 +8,3 @@ Learn more about the COM API for automating <Var:ProductName> and what you can a
 
 ## [Articles](articles/intro.md)
 Read articles on how to get more out of <Var:ProductName>.
-
-RWS
