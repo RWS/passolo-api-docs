@@ -21,3 +21,6 @@ Passolo Add-Ins can be developed in C++ and C# using Visual Studio. For C++ deve
 
 ### Passolo 2018 SDK Download
 The SDK ZIP file can be downloaded [here](Passolo_2018_AddIn_SDK.zip).
+
+### Passolo 2022 SDK Download
+The SDK ZIP file can be downloaded [here](Passolo_2022_AddIn_SDK.zip).
