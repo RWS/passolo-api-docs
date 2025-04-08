@@ -1,4 +1,6 @@
+- name: Passolo
+  href: index.md
 - name: Articles
   href: articles/
-- name: Passolo APIs
+- name: API
   href: apiconcepts/
