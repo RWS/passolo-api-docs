@@ -22,8 +22,7 @@ jobs:
 
     env:
       ProductName: Passolo
-      ProductNameWithEdition: 'Passolo 2021'
-      AppSigningEmail : app-signing@sdl.com
+      ProductNameWithEdition: 'Passolo 2024'
       DotNetVersion: '.Net Framework 4.8'
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
